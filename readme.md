@@ -6,3 +6,5 @@
 2. CSS
 
 ## Notes
+
+-fixed video and image for mobile view
